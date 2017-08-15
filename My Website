@@ -1,11 +1,15 @@
-<DOCTYPE html> 
-<html> 
-    <head> 
-    </head> 
-    <body>
-    </body>
-       <h1>TheNikksters</h1> 
-       <p>Loves Cats.</p>
-     </body> 
-    <html>
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Test Document</title>
+</head>
+<body>
+    <h1>This is a test website</h1>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime, eius, recusandae doloremque similique quod in at dolore! Inventore, similique, eius, quia labore rem consectetur dolorem iure accusantium ratione ut reiciendis.</p>
+    <hr />
+    
+    <p><small>Thanks for visiting</small></p>
+</body>
+</html>
 
